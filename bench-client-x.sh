@@ -8,7 +8,7 @@ RUNS=${3}
 
 log="emp_x_client.log"
 
-cd '/psi/emp/emp-sh2pc'
+cd '/psi/emp'
 
 echo "N:" ${N} >>${log}
 
